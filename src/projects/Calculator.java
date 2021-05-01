@@ -1,3 +1,4 @@
+//Author Sumit Kant Verma
 package projects;
 import java.util.Scanner;
 public class Calculator {
